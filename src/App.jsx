@@ -9,6 +9,7 @@ import Beach from './Beach';
 
 import Cards from './Cards';
 
+import Footer from "./Footer"
 
 function App() {
   const [count, setCount] = useState(0)
@@ -22,6 +23,8 @@ function App() {
   <Beach/>
 
   <Cards/>
+
+  <Footer/>
       
 
     </>
