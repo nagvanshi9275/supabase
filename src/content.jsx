@@ -29,15 +29,6 @@ export default function Content() {
               style={{
                 width: 50,
                 height: 50,
-                marginRight: '20px', // Add margin between logos if needed
-              }}
-            />
-            <img
-              src="https://i.postimg.cc/7YsgSRKL/painting-india.jpg"
-              alt="Logo 2"
-              style={{
-                width: 50,
-                height: 50,
               }}
             />
           </Box>
@@ -45,8 +36,9 @@ export default function Content() {
             Get. Set. Start <br /> Your Paint Journey!
           </Typography>
           <Typography variant="body1" component="p" sx={{ marginTop: '20px' }}>
-            Introducing PaintCraft, a new painting service by Aditya Birla Group. <br />
-            We plan around your home, keeping up with your ideas and bringing in our expertise.
+            Are you an interior designer seeking a reliable and skilled partner to bring your vision to life?
+            <br />
+            Look no further. Our professional painting services are tailored to meet the unique demands of the interior design industry.
           </Typography>
         </Grid>
 

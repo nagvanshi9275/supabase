@@ -21,16 +21,14 @@ const Footer = () => {
               Follow Us
             </Typography>
             <Box sx={{ display: 'flex', justifyContent: 'start' }}>
-              <IconButton component="a" href="https://facebook.com" target="_blank" sx={{ color: 'white' }}>
+              <IconButton component="a" href="https://www.facebook.com/profile.php?id=100085099929716&mibextid=ZbWKwL" target="_blank" sx={{ color: 'white' }}>
                 <Facebook />
               </IconButton>
-              <IconButton component="a" href="https://twitter.com" target="_blank" sx={{ color: 'white' }}>
-                <Twitter />
-              </IconButton>
-              <IconButton component="a" href="https://instagram.com" target="_blank" sx={{ color: 'white' }}>
+  
+              <IconButton component="a" href="https://www.instagram.com/top_painting_india?igsh=bXlvaXUyZmhjeWJ1" target="_blank" sx={{ color: 'white' }}>
                 <Instagram />
               </IconButton>
-              <IconButton component="a" href="https://linkedin.com" target="_blank" sx={{ color: 'white' }}>
+              <IconButton component="a" href="https://www.linkedin.com/in/top-painting-india/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" sx={{ color: 'white' }}>
                 <LinkedIn />
               </IconButton>
             </Box>
@@ -41,10 +39,10 @@ const Footer = () => {
               Contact Us
             </Typography>
             <Typography variant="body1">
-              1234 PaintCraft Lane <br />
-              City, State, ZIP <br />
-              Email: info@paintcraft.com <br />
-              Phone: (123) 456-7890
+            Shop No 1, Dharam Palace, Mahatma Gandhi Rd, opposite axis bank, Ghatkopar, Ghatkopar West <br />
+              Mumbai, Maharashtra, 400086 <br />
+              Email: toppaintingindia19@gmail.com <br />
+              Phone: 9969583396
             </Typography>
           </Grid>
         </Grid>
